@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Gestão de Financiamentos",
+  "description": "Aplicativo web para controle detalhado, renegociação de saldo restante e acompanhamento de parcelas de financiamentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
